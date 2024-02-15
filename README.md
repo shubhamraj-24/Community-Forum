@@ -5,10 +5,6 @@
 
 This is a Community Forum web application built using the MERN stack (MongoDB, Express, React, Node.js). The app allows users to post questions, provide answers, and engage in discussions on various topics. Additionally, authentication is handled using Google Firebase.
 
-## Live Demo
-
-Check out the live demo of the app hosted on Firebase: [Community Forum App](https://community-forum-24d4b.web.app/)
-
 ## Features
 
 - User Registration and Authentication using Google Firebase
